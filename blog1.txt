@@ -1,0 +1,12 @@
+ Creating A Simple 'Hello World' Program
+
+So you just installed python, but don't know where to get started? Well I am be going to teach you in this python series!
+
+Okay, once you have installed it open up an IDE I use mu and pycharm, but pycharm has a more user friendly UI so use that.
+
+Create a new project and enter the following,
+
+print("Hello World")
+
+
+
